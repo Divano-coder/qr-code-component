@@ -15,7 +15,7 @@ img {
 .attribution {
   font-size: 11px;
   text-align: center;
-  margin-top: 25px;
+  margin-top: 55px;
 }
 
 .attribution a {
@@ -27,18 +27,12 @@ img {
   height: 497px;
   background-color: hsl(0, 0%, 100%);
   border-radius: 20px;
-  margin-top: 45px;
 }
 
 .container {
   display: flex;
   justify-content: center;
-}
-
-.qr-container {
-  display: flex;
-  justify-content: center;
-  margin: 16px;
+  margin-top: 152px;
 }
 
 .dark-navy {
@@ -52,6 +46,12 @@ img {
   color: hsl(219, 15%, 55%);
   text-align: center;
   font-size: 15px;
+}
+
+.qr-container {
+  display: flex;
+  justify-content: center;
+  margin: 16px;
 }
 
 .text-container {
